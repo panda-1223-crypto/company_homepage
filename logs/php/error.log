@@ -1,0 +1,3 @@
+[13-Jan-2026 09:13:30 UTC] PHP Warning:  Undefined variable $subpage_title in C:\Users\jnjtm\Local Sites\my-test\app\public\wp-content\themes\Youtube-demo\header.php on line 56
+[13-Jan-2026 09:13:30 UTC] PHP Warning:  Undefined variable $subpage_title in C:\Users\jnjtm\Local Sites\my-test\app\public\wp-content\themes\Youtube-demo\header.php on line 61
+[13-Jan-2026 09:13:30 UTC] PHP Warning:  Undefined variable $subpage_title in C:\Users\jnjtm\Local Sites\my-test\app\public\wp-content\themes\Youtube-demo\header.php on line 63
